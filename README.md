@@ -92,16 +92,18 @@ platform
 ![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Cross-Platform](https://img.shields.io/badge/Platform-Cross_Platform-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+html streak link: <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adamu-labaran" alt="GitHub Streak" /></a>
 ---
 -->
 
 ## 📬 Let's Connect
 - [LinkedIn](#) 💼
 - [Email](mailto:your-email@example.com) ✉️
-
+---
 ## Activities
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamu-labaran&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamu-labaran&show_icons=true&theme=dark)
-![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-Active-brightgreen?style=for-the-badge)
-
-
+---
+***
+[![GitHub Streak](https://streak-stats.demolab.com?user=adamu-labaran)](https://git.io/streak-stats)
+***
