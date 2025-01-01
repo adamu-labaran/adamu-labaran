@@ -2,47 +2,39 @@
 I'm a passionate **Data Scientist** and **Software Developer** with expertise in building efficient, user-friendly software solutions. I'm the founder and CEO of **Labaran Software Enterprise**. I am honing my Data Science skills at **Arewa Data Science Academy**.
 
 ---
-
 ## 🛠️ Skills
 
 ### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white)
 
 ### ⚙️ Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaFX](https://img.shields.io/badge/JavaFX-2E7D32?style=for-the-badge&logo=java&logoColor=white)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=white)
-
+![JavaFX](https://img.shields.io/badge/JavaFX-2E7D32?style=plastic&logo=java&logoColor=white)
 
 ### 📊 Data & Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 
 ---
 
 ## 🧰 Tools I Use
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![PopSQL](https://img.shields.io/badge/PopSQL-262626?style=for-the-badge&logo=postgresql&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apacher&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=plastic&logo=google-docs&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=plastic&logo=google-sheets&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white)
+![PopSQL](https://img.shields.io/badge/PopSQL-262626?style=plastic&logo=postgresql&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipse&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=plastic&logo=apacher&logoColor=white)
+
 
 ---
 
@@ -109,3 +101,7 @@ platform
 
 ## Activities
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamu-labaran&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamu-labaran&show_icons=true&theme=dark)
+![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-Active-brightgreen?style=for-the-badge)
+
+
