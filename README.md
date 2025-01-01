@@ -96,9 +96,6 @@ html streak link: <a href="https://git.io/streak-stats"><img src="https://streak
 ---
 -->
 
-## 📬 Let's Connect
-- [LinkedIn](#) 💼
-- [Email](mailto:your-email@example.com) ✉️
 ---
 ## Activities
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamu-labaran&show_icons=true&theme=radical)
@@ -106,4 +103,32 @@ html streak link: <a href="https://git.io/streak-stats"><img src="https://streak
 ---
 ***
 [![GitHub Streak](https://streak-stats.demolab.com?user=adamu-labaran)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamu-labaran&layout=compact&theme=radical)
+
 ***
+<!-- 
+## Latest Blog Posts 📝
+- [Title 1](https://medium.com/@username/title1)
+- [Title 2](https://medium.com/@username/title2)
+
+gif demostrating working on a specific project
+![Working on code](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Machine Learning Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+## Machine Learning in Action
+![Training Model](https://media.giphy.com/media/2t9oTWqX8htIKz1Nkt/giphy.gif)
+*Training a model step-by-step.*
+
+![Neural Network](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+*Neural network processing in real-time.*
+
+
+
+## Connect with Me 🌐
+## 📬 Let's Connect
+- [LinkedIn](#) 💼
+- [Email](mailto:your-email@example.com) ✉️
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: yourname@example.com
+-->
