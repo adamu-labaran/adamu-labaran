@@ -32,6 +32,8 @@ I'm a passionate **Data Scientist** and **Software Developer** with expertise in
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white)
 ![PopSQL](https://img.shields.io/badge/PopSQL-262626?style=plastic&logo=postgresql&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=plastic&logo=mysql&logoColor=white)
+
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipse&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=plastic&logo=apacher&logoColor=white)
 
