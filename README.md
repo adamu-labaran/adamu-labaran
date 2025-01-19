@@ -1,4 +1,4 @@
-#💡 Hi, I'm Adamu Labaran!
+💡 Hi, I'm Adamu Labaran!
 I'm a passionate **Data Scientist** and **Software Developer** with expertise in building efficient, user-friendly software solutions. I'm the founder and CEO of **Labaran Software Enterprise**. I am honing my Data Science skills at **Arewa Data Science Academy**.
 
 ---
@@ -105,7 +105,6 @@ html streak link: <a href="https://git.io/streak-stats"><img src="https://streak
 ---
 ***
 [![GitHub Streak](https://streak-stats.demolab.com?user=adamu-labaran)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamu-labaran&layout=compact&theme=radical)
 
 ***
 <!-- 
